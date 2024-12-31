@@ -34,23 +34,23 @@ Deriving insights to support decision-making processes.
 3. Product categories contributing most to sales.
 
 **Store Performance**
-1. Store revenue comparisons.
+1. Profit contribution of each store to revenue.
 2. Number of transactions per store.
 3. Stores with the highest return quantity.
 4. Revenue comparisons across regions.
    
 **Returns Analysis**
-1. Total product return quantities.
-2. Products with the highest return rates.
-3. Return rates for different store types.
-4. Return-to-sale ratios for each store.
+1. Return-to-sale ratios for each store.
+2. Avg. quantity of products returned per transaction.
+3. Products with the highest return rates.
+4. Return rates for different store types.
    
 **Customer Segmentation**
-1. High-value customers based on spending.
-2. Most common occupations of high-income customers.
-3. Customer segmentation by income levels.
+1. Most common occupations of high-income customers.
+2. Customer segmentation by income levels.
+3. Customers with highest transaction frequency.
 
-**Advanced Insights**
+**Advanced Insights Queries**
 1. Store-product combinations generating the highest revenue.
 2. Average time between transactions for each customer.
 
