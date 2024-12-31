@@ -68,9 +68,9 @@ Deriving insights to support decision-making processes.
 ---
 
 # 🛠️ Tools & Technologies
-**Database:** MySQL
-**Query Language:** SQL
-**Documentation:** GitHub for version control and project tracking
+1. **Database:** MySQL
+2. **Query Language:** SQL
+3. **Documentation:** GitHub for version control and project tracking
 
 ---
 
